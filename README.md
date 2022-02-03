@@ -1,4 +1,4 @@
-# Challenge 1. Horiseon Code Refactor
+# Horiseon Code Refactor
 
 ![Horiseon webpage screenshot](Develop\assets\images\horiseonscreenshot.png)
 
